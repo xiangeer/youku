@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bottom{
+	width:970px;
+	margin-top:40px;
+	}
+.hang{
+	line-height:23px;
+	}
+.hang1{
+	line-height:23px;
+	margin-right:8px;
+	}
+.hang2{
+	margin-right:8px;
+	}	
+	
+	
+	 /*尾部头部*/
+	.bottomhead{
+		height:101px;
+		}
+		.zu1{
+			width:194px;
+			float:left;
+			margin-right:10px;
+			}
+			.zu1 p{
+				font-size:12px;
+				margin-top:10px;
+				}
+		.zu2{
+			width:216px;
+			float:left;
+			margin-right:30px;
+			}
+			.zu2 p{
+				font-size:12px;
+				margin-top:10px;
+				margin-bottom:10px;
+				}
+		.zu3{
+			width:62px;
+			float:left;
+			margin-right:60px;
+			}
+			.zu3 p{
+				font-size:12px;
+				margin-top:10px;
+				margin-bottom:10px;
+				}
+		.zu4{
+			width:50px;
+			float:left;
+			margin-right:60px;
+			}
+			.zu4 p{
+				font-size:12px;
+				margin-top:10px;
+				margin-bottom:10px;
+				}
+		.zu5{
+			width:90px;
+			float:left;
+			margin-right:40px;
+			}
+			.zu5 p{
+				font-size:12px;
+				margin-top:10px;
+				margin-bottom:10px;
+				}
+		.zu6{
+			width:57px;
+			float:left;
+			margin-right:40px;
+			}
+			.zu6 p{
+				font-size:12px;
+				margin-top:10px;
+				margin-bottom:10px;
+				}
+		.zu7{
+			width:52px;
+			float:left;
+			
+			}
+			.zu7 p{
+				font-size:12px;
+				margin-top:10px;
+				margin-bottom:10px;
+				}
+				
+				
+				
+	 /*尾部中间*/			
+	.bottomcenter{
+		height:100px;
+		margin-top:40px;
+		margin-bottom:50px;
+		}
+		.qu1{
+			width:128px;
+			margin-right:70px;
+			float:left;
+			}
+			.qu1 p{
+				font-size:12px;
+				}
+		.qu2{
+			width:156px;
+			margin-right:70px;
+			float:left;
+			}
+			.qu2 p{
+				font-size:12px;
+				}
+		.qu3{
+			width:289px;
+			margin-right:60px;
+			float:left;
+			}
+			.qu3 p{
+				font-size:12px;
+				}
+		.qu4{
+			width:193px;
+			float:left;
+			}
+			.qu4 p{
+				font-size:12px;
+				float:left;
+				margin-left:10px;
+				}
+				
+				
+				
+	 /*尾部尾部*/
+	.bottombottom{
+		height:20px;
+		}
+		.bottombottom p{
+			font-size:12px;
+			text-align:center;
+			color:#8F8F8F;
+			}
